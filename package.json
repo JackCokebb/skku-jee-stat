@@ -1,0 +1,22 @@
+{
+  "name": "skku-jee-stat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackCokebb/skku-jee-stat.git"
+  },
+  "bin": {
+    "skku-jee-stat": "./main.js"
+  },
+  "author": "Jee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JackCokebb/skku-jee-stat/issues"
+  },
+  "homepage": "https://github.com/JackCokebb/skku-jee-stat#readme"
+}
