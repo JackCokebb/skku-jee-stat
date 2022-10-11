@@ -23,7 +23,7 @@ if(numbers.some((n)=> isNaN(n))){ // == numbers.some(isNaN)
 let result;
 switch(command){
     case "sum":
-        result = lib.sum(numbers);
+        result = lib.sum(numbers); //lib[command](numbers);
         break;
     case "avg":
         result = lib.avg(numbers);
